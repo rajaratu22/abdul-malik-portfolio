@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+<defs><linearGradient id="person1" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ffe9ad"/><stop offset="1" stop-color="#c78742"/></linearGradient><linearGradient id="person2" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#67d8df"/><stop offset="1" stop-color="#246f9b"/></linearGradient><linearGradient id="person3" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#c5a5ff"/><stop offset="1" stop-color="#644598"/></linearGradient></defs>
+<ellipse cx="50" cy="82" rx="35" ry="8" fill="#151414" opacity=".28"/>
+<path d="M14 72c1-13 8-21 20-21s19 8 20 21v7H14Z" fill="url(#person3)"/>
+<circle cx="34" cy="37" r="13" fill="#e0b87d"/><path d="M21 36c1-12 8-17 15-15 7 1 11 7 10 15-8-2-16-3-25 0Z" fill="#51443a"/>
+<path d="M47 70c1-18 10-28 24-28s23 10 24 28v9H47Z" fill="url(#person2)"/>
+<circle cx="71" cy="27" r="15" fill="#efc68b"/><path d="M57 25c1-12 8-19 17-17 8 1 13 8 12 18-8-6-18-7-29-1Z" fill="#3e342e"/>
+<path d="M27 75c1-17 9-27 23-27s22 10 23 27v6H27Z" fill="url(#person1)"/>
+<circle cx="50" cy="34" r="14" fill="#f3cf96"/><path d="M36 33c1-12 8-18 16-17 8 1 13 7 12 18-8-6-18-7-28-1Z" fill="#42342b"/>
+<path d="M34 63q16 12 32 0" fill="none" stroke="#fff1ce" stroke-width="3" opacity=".8"/>
+</svg>

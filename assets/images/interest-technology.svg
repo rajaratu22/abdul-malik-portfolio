@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+<defs><linearGradient id="top" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#5ee5ea"/><stop offset="1" stop-color="#1689b4"/></linearGradient><linearGradient id="side" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#347dd1"/><stop offset="1" stop-color="#214079"/></linearGradient><linearGradient id="bolt" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fff08c"/><stop offset="1" stop-color="#ff863c"/></linearGradient></defs>
+<ellipse cx="51" cy="82" rx="29" ry="8" fill="#151414" opacity=".28"/>
+<path d="m18 35 33-18 33 18-33 19Z" fill="url(#top)"/>
+<path d="M18 35v34l33 18V54Z" fill="#2869ad"/>
+<path d="M51 54v33l33-18V35Z" fill="url(#side)"/>
+<path d="m55 27-16 25h11l-5 20 18-28H52Z" fill="url(#bolt)" stroke="#fff2b0" stroke-width="2" stroke-linejoin="round"/>
+<path d="m22 37 29 16 29-16" fill="none" stroke="#a9f5ef" stroke-width="2" opacity=".65"/>
+</svg>
